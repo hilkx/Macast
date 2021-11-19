@@ -1,5 +1,3 @@
-<img align="center" src="macast_slogan.png" alt="slogan" height="auto"/>
-
 # Macast
 
 [![visitor](https://visitor-badge.glitch.me/badge?page_id=xfangfang.Macast)](https://github.com/xfangfang/Macast/releases/latest)
